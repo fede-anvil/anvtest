@@ -1,0 +1,38 @@
+{
+  "variantName": "tabs-profile",
+  "baseBlock": "tabs",
+  "version": "1.0.0",
+  "created": "2026-05-22T09:32:00.000Z",
+  "sourceContext": {
+    "originUrl": "https://wknd-trendsetters.site/",
+    "originPage": "homepage",
+    "blockPosition": "middle"
+  },
+  "visualCharacteristics": {
+    "colorScheme": "light",
+    "density": "spacious",
+    "purpose": "profile-switcher",
+    "imagePattern": "large"
+  },
+  "contentPattern": {
+    "structure": "tab labels with avatar + name + role; tab panel with portrait + name/role + quote",
+    "buttonCount": 0,
+    "imageCount": 4
+  },
+  "reuseGuidance": {
+    "suitableFor": [
+      "team profiles / testimonials",
+      "interactive person/profile switcher",
+      "case study spotlights"
+    ],
+    "notSuitableFor": [
+      "simple text-only tab content",
+      "long tab content needing accordion treatment"
+    ]
+  },
+  "usage": {
+    "pagesUsing": ["/index", "/case-studies"],
+    "reuseCount": 2,
+    "lastUsed": "2026-05-22T09:45:27.019Z"
+  }
+}

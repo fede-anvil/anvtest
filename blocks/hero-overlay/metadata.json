@@ -1,0 +1,38 @@
+{
+  "variantName": "hero-overlay",
+  "baseBlock": "hero",
+  "version": "1.0.0",
+  "created": "2026-05-22T09:32:00.000Z",
+  "sourceContext": {
+    "originUrl": "https://wknd-trendsetters.site/",
+    "originPage": "homepage",
+    "blockPosition": "bottom"
+  },
+  "visualCharacteristics": {
+    "colorScheme": "dark",
+    "density": "spacious",
+    "purpose": "cta-banner",
+    "imagePattern": "large"
+  },
+  "contentPattern": {
+    "structure": "full-bleed background image with overlay heading + subheading + single CTA",
+    "buttonCount": 1,
+    "imageCount": 1
+  },
+  "reuseGuidance": {
+    "suitableFor": [
+      "page-bottom CTA banners",
+      "feature/case-study showcases with overlay text",
+      "dark hero sections with photo background"
+    ],
+    "notSuitableFor": [
+      "text-only heroes without imagery",
+      "compact hero variants on light backgrounds"
+    ]
+  },
+  "usage": {
+    "pagesUsing": ["/index", "/case-studies"],
+    "reuseCount": 2,
+    "lastUsed": "2026-05-22T09:45:27.019Z"
+  }
+}

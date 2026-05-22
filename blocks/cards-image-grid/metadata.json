@@ -1,0 +1,38 @@
+{
+  "variantName": "cards-image-grid",
+  "baseBlock": "cards",
+  "version": "1.0.0",
+  "created": "2026-05-22T09:32:00.000Z",
+  "sourceContext": {
+    "originUrl": "https://wknd-trendsetters.site/",
+    "originPage": "homepage",
+    "blockPosition": "middle"
+  },
+  "visualCharacteristics": {
+    "colorScheme": "light",
+    "density": "compact",
+    "purpose": "image-gallery",
+    "imagePattern": "large"
+  },
+  "contentPattern": {
+    "structure": "uniform 4-column grid of square images, no captions",
+    "buttonCount": 0,
+    "imageCount": 8
+  },
+  "reuseGuidance": {
+    "suitableFor": [
+      "image galleries / mosaics",
+      "snapshot or photo grids",
+      "image-only card layouts"
+    ],
+    "notSuitableFor": [
+      "cards needing rich text/headings/CTAs",
+      "article cards with metadata"
+    ]
+  },
+  "usage": {
+    "pagesUsing": ["/index", "/case-studies"],
+    "reuseCount": 2,
+    "lastUsed": "2026-05-22T09:45:27.019Z"
+  }
+}

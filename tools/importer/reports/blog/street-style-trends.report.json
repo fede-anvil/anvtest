@@ -1,0 +1,11 @@
+{
+  "status": "success",
+  "url": "https://wknd-trendsetters.site/blog/street-style-trends",
+  "path": "blog/street-style-trends",
+  "timestamp": "2026-05-22T10:03:49.428Z",
+  "title": "Street style, your way | Fashion Blog",
+  "template": "blog-article",
+  "blocks": [
+    "columns-feature"
+  ]
+}

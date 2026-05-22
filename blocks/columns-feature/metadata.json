@@ -1,0 +1,38 @@
+{
+  "variantName": "columns-feature",
+  "baseBlock": "columns",
+  "version": "1.0.0",
+  "created": "2026-05-22T09:32:00.000Z",
+  "sourceContext": {
+    "originUrl": "https://wknd-trendsetters.site/",
+    "originPage": "homepage",
+    "blockPosition": "top"
+  },
+  "visualCharacteristics": {
+    "colorScheme": "light",
+    "density": "spacious",
+    "purpose": "feature",
+    "imagePattern": "large"
+  },
+  "contentPattern": {
+    "structure": "text content + image group (or vice versa) side-by-side",
+    "buttonCount": 2,
+    "imageCount": 3
+  },
+  "reuseGuidance": {
+    "suitableFor": [
+      "page hero with text + image group",
+      "feature sections with text + media side-by-side",
+      "article header layouts (image + heading/byline)"
+    ],
+    "notSuitableFor": [
+      "compact 3+ column layouts",
+      "uniform card grids"
+    ]
+  },
+  "usage": {
+    "pagesUsing": ["/index", "/blog", "/blog/ace-pro-court-polo", "/case-studies"],
+    "reuseCount": 4,
+    "lastUsed": "2026-05-22T09:45:27.019Z"
+  }
+}
